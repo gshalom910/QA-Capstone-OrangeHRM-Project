@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "cy:cloud": "npx cypress run --record --key 2cb0b665-2533-46ce-8db7-14a639df2867"
+  },
+  "devDependencies": {
+    "cypress": "^14.1.0",
+    "cypress-file-upload": "^5.0.8",
+    "cypress-mochawesome-reporter": "^3.8.2",
+    "xlsx": "^0.18.5"
+  }
+}
